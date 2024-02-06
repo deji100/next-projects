@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "car-showcase",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Carhub"
+		]
+	}
+}
